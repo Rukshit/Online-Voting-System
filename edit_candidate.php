@@ -133,6 +133,6 @@ a:hover {
         <button type="submit">Update Candidate</button>
     </form>
 
-    <p><a href="manage_candidates.php">Back to Candidate List</a></p>
+    <p><a href="admin_panel.php">Back to Candidate List</a></p>
 </body>
 </html>
